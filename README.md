@@ -1,2 +1,2 @@
-# jasmine
-git repo
+# git-github
+This is for tutorila purpose
